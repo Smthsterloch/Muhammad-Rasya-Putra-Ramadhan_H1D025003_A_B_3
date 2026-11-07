@@ -39,8 +39,3 @@ Simulasi pompa BBM di SPBU. Superclass abstract `Pompa` punya tiga subclass
 javac *.java
 java Main
 ```
-
-## Screenshot Luaran
-![Luaran program](screenshots/output.png)
-
-> Jalankan program, ambil screenshot terminal, simpan sebagai `screenshots/output.png`.
