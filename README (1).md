@@ -47,7 +47,5 @@ Harga per liter mengacu pada daftar Pertamina per November 2026 (wilayah Jabodet
 - Solar (Biosolar): Rp6.800
 
 ## Screenshot Luaran
-Luaran diambil dari OnlineGDB (Online Java Compiler) dengan seluruh class digabung dalam satu file.
-Kode di repositori ini tetap dipisah per file dan dijalankan dengan perintah terminal di atas.
 
-![Luaran program](output.png)
+![Luaran program](.png)
