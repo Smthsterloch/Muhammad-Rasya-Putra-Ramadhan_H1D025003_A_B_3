@@ -48,4 +48,4 @@ Harga per liter mengacu pada daftar Pertamina per November 2026 (wilayah Jabodet
 
 ## Screenshot Luaran
 
-![Luaran program](Output.jng)
+![Luaran program](Output.jpg)
