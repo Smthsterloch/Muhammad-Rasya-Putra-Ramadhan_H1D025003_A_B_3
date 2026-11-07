@@ -3,7 +3,7 @@
 ## Identitas
 - **Nama**: Muhammad Rasya Putra Ramadhan
 - **NIM**: H1D025003
-- **Tema (digit terakhir NIM = 3)**: SPBU
+- **Tema**: SPBU
 - **Jurusan**: Informatika, Fakultas Teknik, Universitas Jenderal Soedirman
 
 ## Deskripsi
@@ -48,4 +48,4 @@ Harga per liter mengacu pada daftar Pertamina per November 2026 (wilayah Jabodet
 
 ## Screenshot Luaran
 
-![Luaran program](.png)
+![Luaran program](Output.jpg)
